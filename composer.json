@@ -14,8 +14,8 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
-        "illuminate/support": "^6.0",
-        "illuminate/console": "^6.0",
+        "illuminate/support": "^6.0|^7.0",
+        "illuminate/console": "^6.0|^7.0",
         "illuminated/helper-functions": "^6.0",
         "monolog/monolog": "^1.12|^2.0",
         "psr/http-message": "^1.0",
